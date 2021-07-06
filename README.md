@@ -7,7 +7,7 @@
  
  
  
---* 📫 How to reach me: Discord Lusha#0513
+- 📫 How to reach me: Discord Lusha#0513
 
 
 <!--

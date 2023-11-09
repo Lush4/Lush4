@@ -1,14 +1,6 @@
 ### Hi there i am Lusha 👋
 
 
-- 🛠️ I make Discord Bots and setting up Minecrat Servers
-- 🎶 I am also a music producer
-- 🌱 Currently I am learning about AIs and CNN (_Convolutional Neural Network_)
- 
- 
- 
-- 📫 How to reach me: Discord Lusha#0513
-
 
 <!--
 **Lush4/Lush4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
